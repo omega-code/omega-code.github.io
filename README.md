@@ -1,2 +1,2 @@
 # omega-code.github.io
-public web page of the team
+here sits the public web pages of the Omega Code Team 
